@@ -1,4 +1,36 @@
 body {
     background-color: #c1c291;
   }
-  
+
+  .underlined {
+        text-decoration: underline;
+  }
+
+  .underlined2 {
+        text-decoration: underline;
+  }
+
+  .underlined3 {
+        text-decoration: underline;
+  }
+
+  .priznaky {
+    font-style: italic;
+
+  }
+
+
+.leiurus-info {
+    display: flex;
+    align-items: center;
+}
+
+.leiurus {
+    border: 2px solid black;
+    margin-right: 10px;
+}
+
+.leiurus-description {
+    display: flex;
+    flex-direction: column;
+}
