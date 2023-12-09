@@ -19,6 +19,15 @@ body {
 
   }
 
+  .Léčba {
+    font-style: italic;
+
+  }
+
+  .Chov {
+        text-decoration: underline;
+  }
+
 
 .leiurus-info {
     display: flex;
